@@ -19,6 +19,7 @@
 |    약어    |                  의미                 |
 |---------------------------------------------------|
 |HTML        |HyperText Markup Language             |
-|CSS         |Cascading Style Sheet                 |
+|CSS         |Cascading Style Sheet                 |     
 
-20222704 남규빈 
+        
+#### 20222704 남규빈 
